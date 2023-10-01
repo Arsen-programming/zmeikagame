@@ -8,7 +8,7 @@ ground.src = "img/ground.png";
 
 const foodImg = new Image();
 foodImg.src = "img/food.png";
-// добавление фоторгафии 
+// добавление фоторгафии в Image
 
 let box = 32;
 // отвечает за ширину блока и высоту блока на картинке
